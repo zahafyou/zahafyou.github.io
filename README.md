@@ -1,8 +1,10 @@
 # Madiop Niang Resume
 
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/zahafyou/zahafyou.github.io.git)
+
 Resume coding with:.
 
-  -  HTML5
+  - HTML5
   - CSS3
   - and W3-CSS
 
